@@ -1,0 +1,66 @@
+{
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "name": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ],
+  "components/landing/background/Clouds": [
+    {
+      "id": "./components/landing/background/Clouds.js",
+      "name": "./components/landing/background/Clouds.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "public/svg/icons/material/AccountCircle": [
+    {
+      "id": "./public/svg/icons/material/AccountCircle.js",
+      "name": "./public/svg/icons/material/AccountCircle.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "public/svg/illustrations/bodies/Bodies1": [
+    {
+      "id": "./public/svg/illustrations/bodies/Bodies1.js",
+      "name": "./public/svg/illustrations/bodies/Bodies1.js",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    }
+  ],
+  "public/svg/logos/BadlozText": [
+    {
+      "id": "./public/svg/logos/BadlozText.js",
+      "name": "./public/svg/logos/BadlozText.js",
+      "file": "static/chunks/8.js",
+      "publicPath": "static/chunks/8.js"
+    }
+  ],
+  "public/svg/logos/FacebookIcon": [
+    {
+      "id": "./public/svg/logos/FacebookIcon.js",
+      "name": "./public/svg/logos/FacebookIcon.js",
+      "file": "static/chunks/4.js",
+      "publicPath": "static/chunks/4.js"
+    }
+  ],
+  "public/svg/logos/InstagramIcon": [
+    {
+      "id": "./public/svg/logos/InstagramIcon.js",
+      "name": "./public/svg/logos/InstagramIcon.js",
+      "file": "static/chunks/5.js",
+      "publicPath": "static/chunks/5.js"
+    }
+  ],
+  "public/svg/logos/TwitterIcon": [
+    {
+      "id": "./public/svg/logos/TwitterIcon.js",
+      "name": "./public/svg/logos/TwitterIcon.js",
+      "file": "static/chunks/7.js",
+      "publicPath": "static/chunks/7.js"
+    }
+  ]
+}
